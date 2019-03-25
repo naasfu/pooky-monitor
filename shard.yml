@@ -1,0 +1,12 @@
+name: pooky-monitor
+
+version: 0.1.0
+
+authors:
+  - Blast Team
+
+dependencies:
+  myhtml:
+    github: kostya/myhtml
+  crest:
+    github: mamantoha/crest
